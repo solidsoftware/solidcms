@@ -1,0 +1,11 @@
+/**
+* class ajax engine
+* @author putera kahfi
+* @depend jquery
+*/
+
+
+//init sajax
+function sajax(){}
+sajax.init =function(){
+}

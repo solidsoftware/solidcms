@@ -96,8 +96,6 @@ h1, h2, h3, h4, h5, h6 {
    margin-bottom: 0;
 }
 
-
-
 /* This is the header H2 with a dropdown for the page menu */
 #header-container a.header-dropdown {
    font-size: 26px;

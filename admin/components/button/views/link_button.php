@@ -1,6 +1,6 @@
-<a href="{$link}" class="btn {$size}" {$ext_attr}>
+<a href="{$link}" class="btn {$size} xhr" {$ext_attr}>
 	{if $icon!=''}
-	<i class="icon {$icon} "></i>	
+	<i class="icon {$icon}"></i>	
 	{/if}
 	{$label}
 </a> 

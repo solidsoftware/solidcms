@@ -38,7 +38,6 @@ class Core_application extends MX_Controller{
 		}else{
 			$data['action'] = $this->solid_dispatcher->get_url('core_application','core_application', 'insert');
 		}
-
 		if($_GET['comp']=='true')
 		$this->load->view('input',$data);
 		else

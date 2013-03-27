@@ -93,7 +93,7 @@
       </div>
     </div> <br/><br/><br/>
 
-    <div class="container-fluid" id="content">
+    <div class="container-fluid">
 
 	<?php echo $template['body']; ?>
     </div> <!-- /container -->

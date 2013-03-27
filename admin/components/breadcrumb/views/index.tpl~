@@ -1,0 +1,14 @@
+	
+{foreach}
+
+{/foreach}
+
+<ul class="undermenu">
+					<li><a href="category.html">Kolom Penulis</a></li>
+					<li><a href="category.html">Iklan Baris</a></li>
+					<li><a href="category.html">Agenda Event</a></li>
+					<li><a href="category.html">Opini Pembaca</a></li>
+					<li><a href="category.html">Foto & Video</a></li>
+					<li><a href="category.html">E-Paper</a></li>
+
+				</ul>

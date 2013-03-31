@@ -1,0 +1,17 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+/**
+* @class  : Core_group
+* @desc   : class to management group
+* @author : putera kahfi
+**/ 
+class Core_group extends MX_Controller{
+
+
+	function __construct(){
+		parent::__construct();
+	}
+
+	function 
+
+}

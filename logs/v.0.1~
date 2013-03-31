@@ -1,0 +1,14 @@
+/**
+log version  0.1
+==============================================================================
+app version : 0.1
++ core app
+  - libraries : HMVC, Template, Smarty
+  - css       : bootstrap
+  - js        : jquery
+
+features 
+- multi language
+- system management
+- components
+- widgets

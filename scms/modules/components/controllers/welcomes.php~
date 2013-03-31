@@ -1,0 +1,17 @@
+<?php
+
+
+class welcomes extends EXCEL_Controller{
+
+
+	function __construct(){
+		parent::__construct();
+	}
+	
+
+	function index(){
+		echo "this is welcomes controller, its inside welcome module";
+		var_dump($this->template->theme_exists('solid'));
+		$this->template->set_layout('two_col')->build('welcome_message'); 					
+	}
+}

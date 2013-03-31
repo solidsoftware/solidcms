@@ -1,0 +1,11 @@
+solidcms widget log
+name    : bootstrap
+author  : putera kahfi
+================================================================
+
+version : 0.1
+fitures : 
+widgets
+ 
+- navbar
+	- support multiple menu (2 levels) 

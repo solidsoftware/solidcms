@@ -1,0 +1,2840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mul",
+				"multiplemarker"
+			],
+			[
+				"btn",
+				"btndropdown"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"acti",
+				"active_icon"
+			],
+			[
+				"font",
+				"font_icon"
+			],
+			[
+				"fo",
+				"font_icon"
+			],
+			[
+				"p",
+				"plugin_head	Plugin Head"
+			],
+			[
+				"drp",
+				"dropdown-menu"
+			],
+			[
+				"drow",
+				"dropdown-menu"
+			],
+			[
+				"drop",
+				"dropdown-submenu"
+			],
+			[
+				"hasC",
+				"hasClass( selector )	jquery-1.7.2.js"
+			],
+			[
+				"enc",
+				"encrypt"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"lang",
+				"langname"
+			],
+			[
+				"_lang",
+				"_langData"
+			],
+			[
+				"core",
+				"core_classes"
+			],
+			[
+				"login",
+				"login_data"
+			],
+			[
+				"Modle",
+				"Model_core_user"
+			],
+			[
+				"solid",
+				"solid_acl"
+			],
+			[
+				"lib",
+				"lib_name"
+			],
+			[
+				"key",
+				"key_config"
+			],
+			[
+				"get",
+				"get_application_config"
+			],
+			[
+				"resu",
+				"result_array"
+			],
+			[
+				"unit",
+				"unit_id"
+			],
+			[
+				"app",
+				"APPPATH"
+			],
+			[
+				"group",
+				"groupId"
+			],
+			[
+				"Model",
+				"model_group"
+			],
+			[
+				"Ja",
+				"jayyid"
+			],
+			[
+				"count",
+				"countEksemplar"
+			],
+			[
+				"o",
+				"objBookEksemplar"
+			],
+			[
+				"objBo",
+				"objBookEksemplar"
+			],
+			[
+				"tingka",
+				"tingkat_kode"
+			],
+			[
+				"golo",
+				"golongan_kode"
+			],
+			[
+				"seksi",
+				"seksi_kode"
+			],
+			[
+				"golongan",
+				"golongan_isi"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"cur",
+				"currentMedia"
+			],
+			[
+				"curren",
+				"currentMedia"
+			],
+			[
+				"curr",
+				"currentMedia"
+			],
+			[
+				"_obj",
+				"_objLecturer"
+			],
+			[
+				"cure",
+				"currentMedia"
+			],
+			[
+				"load",
+				"loadMedia"
+			],
+			[
+				"curre",
+				"currentMedia"
+			],
+			[
+				"current",
+				"currentObj"
+			],
+			[
+				"media",
+				"media-text"
+			],
+			[
+				"inde",
+				"indexMedia-1"
+			],
+			[
+				"in",
+				"indexMedia"
+			],
+			[
+				"sp_Angg",
+				"sp_anggota_lain"
+			],
+			[
+				"Anggo",
+				"Anggota"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"bkex",
+				"bkexNoInventaris"
+			],
+			[
+				"pegKo",
+				"pegKodeResmi"
+			],
+			[
+				"exis",
+				"existData"
+			],
+			[
+				"det",
+				"detStatusSinkron"
+			],
+			[
+				"Faild",
+				"failedCounter"
+			],
+			[
+				"kategori_si",
+				"kategori_sirkulasi_anggota"
+			],
+			[
+				"katego",
+				"kategori_anggota"
+			],
+			[
+				"tingk",
+				"tingkatKode"
+			],
+			[
+				"post",
+				"post_title"
+			],
+			[
+				"Mode",
+				"Model_log_buku"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"sp_buku",
+				"sp_buku_eksemplar"
+			],
+			[
+				"fil",
+				"filterPost"
+			],
+			[
+				"bkL",
+				"bklogBkId"
+			],
+			[
+				"bklog",
+				"bklogBkId"
+			],
+			[
+				"date",
+				"date_start"
+			],
+			[
+				"ta",
+				"tanggal_akhir"
+			],
+			[
+				"tan",
+				"tanggal_awal"
+			],
+			[
+				"setCe",
+				"setCellValue"
+			],
+			[
+				"setC",
+				"setCellValue"
+			],
+			[
+				"file",
+				"file_location"
+			],
+			[
+				"update",
+				"updateField"
+			],
+			[
+				"upda",
+				"updateLog"
+			],
+			[
+				"ting",
+				"tingkatId"
+			],
+			[
+				"detail",
+				"detailBuku"
+			],
+			[
+				"filt",
+				"filterPost"
+			],
+			[
+				"mod",
+				"Model_kategori_klasifikasi"
+			],
+			[
+				"Stau",
+				"StatusBuku"
+			],
+			[
+				"exte",
+				"extendUrl"
+			],
+			[
+				"cove",
+				"cover"
+			],
+			[
+				"cover",
+				"coverPath"
+			],
+			[
+				"pene",
+				"penerbit"
+			],
+			[
+				"pe",
+				"penerbit"
+			],
+			[
+				"GetLa",
+				"GetLastError"
+			],
+			[
+				"membe",
+				"member-status"
+			],
+			[
+				"ne",
+				"newExpired"
+			],
+			[
+				"obj",
+				"objDate"
+			],
+			[
+				"angstaT",
+				"angstaStangId"
+			],
+			[
+				"sp_an",
+				"sp_anggota_status"
+			],
+			[
+				"angsta",
+				"angstaTanggalExpire"
+			],
+			[
+				"url",
+				"urlSinkron"
+			],
+			[
+				"arr",
+				"arrParams"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"anggota",
+				"anggota_status"
+			],
+			[
+				"Kate",
+				"KategoriAnggota"
+			],
+			[
+				"ref",
+				"ref_kategori_anggota"
+			],
+			[
+				"Satua",
+				"SatuanKerja"
+			],
+			[
+				"satua",
+				"satuan_kerja"
+			],
+			[
+				"Anggota",
+				"AnggotaLain"
+			],
+			[
+				"aja",
+				"ajaxKlasifikasi"
+			],
+			[
+				"comb",
+				"comboSeksi"
+			],
+			[
+				"kol",
+				"kol_buku"
+			],
+			[
+				"where",
+				"WHERE"
+			],
+			[
+				"pegKod",
+				"pegKodeGateAccess"
+			],
+			[
+				"coma",
+				"companyName"
+			],
+			[
+				"compan",
+				"companyName"
+			],
+			[
+				"com",
+				"companyName"
+			],
+			[
+				"array_sek",
+				"array_seksi_kode"
+			],
+			[
+				"URL",
+				"URL_SUBJECT"
+			],
+			[
+				"penerb",
+				"penerbitNama"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"jml",
+				"jml_array"
+			],
+			[
+				"array_se",
+				"array_seksi_kode"
+			],
+			[
+				"_Cetak",
+				"_CetakKartu"
+			],
+			[
+				"che",
+				"checked_status"
+			],
+			[
+				"chec",
+				"checkInput"
+			],
+			[
+				"_CetakKa",
+				"_CetakKantong"
+			],
+			[
+				"_Ce",
+				"_CetakBarcode"
+			],
+			[
+				"ite",
+				"itemviewed"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"gol",
+				"golKode"
+			],
+			[
+				"ena",
+				"_enableStatus"
+			],
+			[
+				"FIle",
+				"FileGenerator"
+			],
+			[
+				"wp_",
+				"wp_sprintf"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scms/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 3395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/third_party/core_packages/config/solid.php",
+			"settings":
+			{
+				"buffer_size": 127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/third_party/core_packages/libraries/smarty.php",
+			"settings":
+			{
+				"buffer_size": 1618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/themes/bootadmin/views/layouts/main.php",
+			"settings":
+			{
+				"buffer_size": 3059,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/components/panel_menu/controllers/panel_menu.php",
+			"settings":
+			{
+				"buffer_size": 5790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/modules/widgets/controllers/bootstrap.php",
+			"settings":
+			{
+				"buffer_size": 235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/modules/widgets/views/bootstrap.php",
+			"settings":
+			{
+				"buffer_size": 7112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/widgets/wbootstrap/views/dropdown.php",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<div class=\"navbar navbar-inverse\" style=\"position: static;\">\n                 <div class=\"navbar-inner\">\n                   <div class=\"container\">\n                     <a class=\"btn btn-navbar\" data-toggle=\"collapse\" data-target=\".navbar-inverse-collapse\">\n                       <span class=\"icon-bar\"></span>\n                       <span class=\"icon-bar\"></span>\n                       <span class=\"icon-bar\"></span>\n                     </a>\n                     <a class=\"brand\" href=\"#\"><i data-icon=\"}\"></i> SOLID.inc</a>\n                     <div class=\"nav-collapse collapse navbar-inverse-collapse\">\n                      <?php\n\n                      $top_items ='';\n                      $icon ='';\n\n\n                      foreach($items as $data){\n\n                            foreach($data as $val){\n\n                              $class = (isset($val['class'])) ? $val['class'] : \"\";\n                              $top_items .= '<ul class=\"nav '.$class.' \">';\n\n                              if(isset($val['items'])){\n                                \n                                $font_icon =(isset($val['font-icon'])) ?  'data-icon=\"'.$val['font-icon'].'\"' : \"\";\n                                $icon = (isset($val['icon'])) ? $val['icon'] : \"\";\n                                $active_icon = (isset($font_icon) | isset($icon)) ?'<i class=\"icon '.$icon.'\"'.$font_icon.'></i> ' : \"\";\n                                $top_items .= '<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"'.$val['link'].'\">'.$active_icon.$val['label'].' <b class=\"caret\"></b></a>';\n                                $top_items .= '<ul class=\"dropdown-menu\">';\n\n                                foreach($val['items'] as $sub){ // level 1 menu\n                                        if(isset($sub['class']) && $sub['class']=='divider')\n                                            $top_items .='<li class=\"divider\"></li>';\n                                        elseif(isset($sub['items'])){ \n\n                                              $font_icon =(isset($sub['font-icon'])) ?  'data-icon=\"'.$sub['font-icon'].'\"' : \"\";\n                                              $icon = (isset($sub['icon'])) ? $sub['icon'] : \"\";\n                                              $active_icon = (isset($font_icon) | isset($icon)) ?'<i class=\"icon '.$icon.'\"'.$font_icon.'></i> ' : \"\";\n                                              $top_items .= '<li class=\"dropdown-submenu\"><a tabindex=\"-1\" href=\"'.$sub['link'].'\">'.$active_icon.$sub['label'].'</a>';\n                                              $top_items .= '<ul class=\"dropdown-menu\">';\n\n                                              foreach($sub['items'] as $sub_sub){ // level 2 menu\n                                                $font_icon =(isset($sub_sub['font-icon'])) ?  'data-icon='.$sub_sub['font-icon'] : \"\";\n                                                $icon = (isset($sub_sub['icon'])) ? $sub_sub['icon'] : \"\";\n                                                $active_icon = (isset($font_icon) | isset($icon)) ? '<i class=\"icon '.$icon.'\"'.$font_icon.'></i> ' : \"\";\n                                                $top_items .= '<li><a tabindex=\"-1\" href=\"'.$sub_sub['link'].'\">'.$active_icon.$sub_sub['label'].'</a><li>';\n                                              }\n\n                                              $top_items .='</ul>';\n                                              $top_items .='</li>';\n                                    }else{\n\n                                                $font_icon =(isset($sub['font-icon'])) ?  'data-icon=\"'.$sub['font-icon'].'\"' : \"\";\n                                                $icon = (isset($sub['icon'])) ? $sub['icon'] : \"\";\n                                                $active_icon =(isset($font_icon) | isset($icon)) ? '<i class=\"icon '.$icon.'\"'.$font_icon.'></i> ' : \"\";\n                                                $top_items .= '<li><a href=\"'.$sub['link'].'\">'.$active_icon.$sub['label'].'</a></li>';\n                                    }\n                                        \n                                }\n                                $top_items .='</ul>';\n                                $top_items .='</li>';\n                              }elseif(isset($val['html'])){\n                                  $top_items .=$val['html'];\n                              }else{\n                                $font_icon =(isset($sub['font-icon'])) ?  'data-icon=\"'.$sub['font-icon'].'\"' : \"\";\n                                $icon = (isset($sub['icon'])) ? $sub['icon'] : \"\";\n                                $active_icon = (isset($font_icon) | isset($icon)) ? '<i class=\"icon '.$icon.'\"'.$font_icon.'></i> ' : \"\";   \n                                $top_items .= '<li><a href=\"'.$val['link'].'\">'.$active_icon.$val['label'].'</a></li>';\n                              }\n                              $top_items .='</ul>';\n\n                            }\n                      }\n\n\n                      echo $top_items;\n                      ?>\n                     </div><!-- /.nav-collapse -->\n                   </div>\n                 </div><!-- /navbar-inner -->\n               </div>\n",
+			"file": "scms/widgets/bootstrap/views/navbar.php",
+			"file_size": 5236,
+			"file_write_time": 1364545656000000,
+			"settings":
+			{
+				"buffer_size": 5236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n               \n\n<div class=\"navbar navbar-inverse\" style=\"position: static;\">\n                 <div class=\"navbar-inner\">\n                   <div class=\"container\">\n                     <a class=\"btn btn-navbar\" data-toggle=\"collapse\" data-target=\".navbar-inverse-collapse\">\n                       <span class=\"icon-bar\"></span>\n                       <span class=\"icon-bar\"></span>\n                       <span class=\"icon-bar\"></span>\n                     </a>\n                     <a class=\"brand\" href=\"#\">SOLID.inc</a>\n                     <div class=\"nav-collapse collapse navbar-inverse-collapse\">\n                      \n                        <?php\n                          $top_items ='';\n                          foreach($items as $data){\n\n                            foreach($data as $val){\n                            $class = (isset($val['class'])) ? $val['class'] : \"\";\n                            $top_items .= '<ul class=\"nav '.$class.' \">';\n                            if(isset($val['items'])){ //item level 1\n                                $top_items .= '<li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"'.$val['link'].'\">'.$val['label'].' <b class=\"caret\"></b></a>';\n                                $top_items .= '<ul class=\"dropdown-menu\">';\n                                \n                                foreach($val['items'] as $sub){\n\n                                   if(isset($sub['class']) && $sub['class']=='divider'){\n                                        $top_items .= '<li class=\"divider\"></li>';\n                                  \n                                   }else if(isset($sub['items'])){\n\n                                        $top_items .= '<li class=\"dropdown-submenu\"><a tabindex=\"-1\" href=\"'.$sub['link'].'\">'.$sub['label'].'</a>';\n                                        $top_items .= \"<ul class='dropdown-menu>\";\n                                        /*\n                                      foreach($sub['items'] as $sub_sub){\n                                        if(isset($sub_sub['class']) && $sub_sub['class']=='divider')\n                                        $top_items .='<li class=\"divider\"></li>';\n                                        else\n  \n                                        $top_items .= '<li><a href=\"'.$sub['link'].'\">'.$sub['label'].'</a><li>';\n                                      }*/\n\n                                       $top_items .= \"</ul>\";\n                                       $top_items .= \"</li>\";\n                                    }else{\n                                       $top_items .= '<li><a href=\"'.$sub['link'].'\">'.$sub['label'].'</a></li>';\n                                        \n                                    }\n\n                                    $top_items .=\"</li>\";\n                                }\n                                $top_items .= '</ul>';\n                                $top_items .='</li>';\n                              }else if(isset($val['html'])){\n                                $top_items = $val['html'];\n                              }else{\n                                $top_items .= '<li><a href=\"'.$val['link'].'\">'.$val['label'].'</a></li>';\n                              }\n                            $top_items .='</ul>';\n                            }\n                          }\n\n\n                          echo $top_items;\n                        ?>\n                     </div><!-- /.nav-collapse -->\n                   </div>\n                 </div><!-- /navbar-inner -->\n               </div>",
+			"settings":
+			{
+				"buffer_size": 3588,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logs/v.0.1",
+			"settings":
+			{
+				"buffer_size": 327,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/third_party/core_packages/libraries/template.php",
+			"settings":
+			{
+				"buffer_size": 17577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/config/template.php",
+			"settings":
+			{
+				"buffer_size": 2179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/assets/scripts/jquery-validation/css/core.css",
+			"settings":
+			{
+				"buffer_size": 434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "scms/widgets/bootstrap/README",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/third_party/core_packages/solid_core/core_application/views/index.php",
+			"settings":
+			{
+				"buffer_size": 1521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/widgets/wbootstrap/views/navbar.php",
+			"settings":
+			{
+				"buffer_size": 5246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/widgets/wbootstrap/controllers/wbootstrap.php",
+			"settings":
+			{
+				"buffer_size": 5335,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/widgets/wbootstrap/views/alert.php",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/widgets/wbootstrap/views/setup.php",
+			"settings":
+			{
+				"buffer_size": 207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/widgets/wbootstrap/views/pagination.php",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix",
+				"name": "<div class=\"pagination\">"
+			}
+		},
+		{
+			"file": "scms/widgets/wbootstrap/views/breadcrumb.php",
+			"settings":
+			{
+				"buffer_size": 831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/widgets/wbootstrap/views/btndropdown.php",
+			"settings":
+			{
+				"buffer_size": 2465,
+				"line_ending": "Unix",
+				"name": "<div class=\"btn-group\">"
+			}
+		},
+		{
+			"file": "scms/themes/bootadmin/views/layouts/login.php",
+			"settings":
+			{
+				"buffer_size": 3045,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/third_party/core_packages/solid_core/core_application/controllers/core_application.php",
+			"settings":
+			{
+				"buffer_size": 3731,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/config/config.php",
+			"settings":
+			{
+				"buffer_size": 13492,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/extensions/egooglemaps/controllers/egooglemaps.php",
+			"settings":
+			{
+				"buffer_size": 1854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/modules/extensions/controllers/mgooglemaps.php",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/modules/extensions/views/googlemaps.php",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "scms/modules/extensions/views/multiplemarker.php",
+			"file_size": 0,
+			"file_write_time": 1364730461000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/extensions/egooglemaps/views/multiplemarker.php",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/extensions/egooglemaps/views/direction.php",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scms/extensions/egooglemaps/views/index.php",
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Unix",
+				"name": "google map loader"
+			}
+		},
+		{
+			"file": "scms/config/config.php~",
+			"settings":
+			{
+				"buffer_size": 13389,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Convert Case: Title Case"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"PAc",
+				"Package Control: Install Package"
+			],
+			[
+				"Pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"higki",
+				"Bracket Highlighter: Show Bracket String Escape Mode"
+			],
+			[
+				"Paca",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"PA",
+				"Package Control: Install Package"
+			],
+			[
+				"PAca",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"PACA",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Packe",
+				"Package Control: Install Package"
+			],
+			[
+				"PAcl",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"PAcka",
+				"Package Control: Remove Package"
+			],
+			[
+				"Packa Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: gtB",
+				"Snippet: gtBusOpen"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Interface"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 150.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/widgets/wbootstrap/views/btngroup.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/widgets/bootstrap/controllers/wbootstrap.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/widgets/bootstrap/README",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/logs/v.0.1",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/components/panel_menu/views/table_panel.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/third_party/core_packages/config/autoload.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/breadcrumb/views/top_breadcrumb.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/solid_core/core_application/controllers/core_application.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/solid_core/core_application/views/index.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/widgets/slider/controllers/slider.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/breadcrumb/controllers/breadcrumb.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/messenger/controllers/messenger.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/messenger/views/index.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/panel_menu/controllers/panel_menu.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/panel_menu/views/table_panel.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/button/controllers/button.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/button/views/index.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/third_party/core_packages/controllers/auth_controller.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/widgets/bootstrap/controllers/bootstrap.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/themes/bootadmin/views/layouts/main.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/widgets/bootstrap/views/toppanel.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/components/panel_menu/controllers/panel_menu.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/themes/bootadmin/views/layouts/login.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/third_party/core_packages/solid_core/core_application/views/input.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/third_party/core_packages/libraries/template.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/libraries/Template.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/libraries/smarty.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/third_party/core_packages/libraries/smarty.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/scms/config/autoload.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/paging/controllers/paging.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/themes/bootadmin/views/layouts/main.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/widgets/bootstrap/controllers/bootstrap.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/widgets/bootstrap/views/toppanel.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/assets/scripts/jquery.sajax.js",
+		"/media/WEBSITE/www/gamatechno.local/RISETS/gtfw-ee/trunk/app/app_v0/src/js/gtfw.ajax.js",
+		"/media/WEBSITE/www/gamatechno.local/RISETS/gtfw-ee/trunk/app/app_v0/src/js/libs/jquery.form.js",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/solid_core/core_user/controllers/core_user.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/solid_core/core_user/views/index.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/table/controllers/table.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/table/views/table_data.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/libraries/solid/controllers/auth_controller.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/core/MY_Controller.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/components/button/views/link_button.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/themes/bootadmin/views/layouts/login.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/solid_core/core_unit/views/index.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/solid_core/core_unit/controllers/core_unit.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/solid_core/core_unit/models/model_unit.php",
+		"/media/WEBSITE/www/solid.local/risets/solidcms/admin/third_party/core_packages/solid_core/core_unit/views/input.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/components/confirm/views/confirm_delete.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_application/views/input.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_application/controllers/core_application.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/components/confirm/controllers/confirm.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_application/views/index.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_application/scripts/core_application.js",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/themes/bootadmin/views/layouts/main.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/config/config.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/index.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/language/english/core_application/table_lang.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/language/bahasa/core_application/table_lang.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/language/bahasa/button_lang.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_language/controllers/core_language.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/security/solid_auth.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/components/button/controllers/button.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/components/button/views/link_button.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/config/autoload.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_application/models/model_core_app.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/language/english/messenger_lang.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_login/controllers/core_login.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/components/forbidden/controllers/forbidden.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/components/forbidden/views/404.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/system/core/CodeIgniter.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/language/bahasa/index.html",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/MX/Controller.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/MX/Modules.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_user/models/model_core_user.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/modules/dashboard/controllers/dashboard.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/config/routes.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/modules/dashboard/views/index.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/libraries/smarty.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/solid_dispatcher.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/solid_core/core_unit/views/index.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/config/application.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/language/bahasa/messenger_lang.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/language/english/button_lang.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/solid_lang.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/components/messenger/views/index.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/components/messenger/controllers/messenger.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/config/template.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/themes/bootadmin/views/layouts/login.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/libraries/Template.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/composer.json",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core/MY_Router.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core/MY_Loader.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core/MY_Controller.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/solid_loader.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/solid_acl.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/auth.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/application.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/controllers/facebook.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/eden/route/function.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/solid_auth_info.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/solid/security/solid_security.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_login/controllers/core_login.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_unit/controllers/core_unit.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/system/core/Loader.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/models/core_packages_model_application.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/models/core_packages_model_abstract.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/models/core_packages_model_unit.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lombok-portal/admin/core/MY_Model.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/libraries/Doctrine.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_unit/models/model_unit.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_login/views/index.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/libraries/application.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_unit/views/index.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/models/Core_packages_model_user.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/models/Core_packages_model_group.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/models/Core_packages_model_application.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/models/Core_packages_model_abstract.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/core_packages/models/Core_packages_model_unit.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_unit/views/input.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_unit/models/model_unit",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/libraries/application.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/libraries/Acces_rules.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/libraries/Access_rules.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_group/models/model_group.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_rules/models/model_module_rules.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/core_modules/core_rules/models/model_unit_rules.php",
+		"/media/WEBSITE/www/solid.local/projects/lombokpost/lomboktv/adm/admin/third_party/ext_libs/controllers/auth_controller.php"
+	],
+	"find":
+	{
+		"height": 91.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>,/media/WEBSITE/www/Gamatechno/IONS/trunk/app/gtpustaka/app/bo/module",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"(){\n",
+			"<?php echo base_url() ?>scms/themes/bootadmin",
+			"home",
+			"_load_view",
+			"*					",
+			"  if(isset($sub['class']) && $sub['class']=='divider')\n                                   echo '<li class=\"divider\"></li>';\n                                   else\n                                   echo '<li class=\"dropdown-submenu\"><a tabindex=\"-1\" href=\"'.$sub['link'].'\">'.$sub['label'].'</a>';\n                                    ",
+			"config",
+			"<?php echo base_url() ?>/admin",
+			"')),",
+			"<?php echo base_url() ?>/",
+			"<?php echo base_url() ?>/admin/",
+			"admin",
+			"get_",
+			"metadata",
+			"metadata'",
+			"metadata",
+			"_load_view(",
+			"_find_view(",
+			"view(",
+			"view",
+			"_metadata",
+			"\"	",
+			"url",
+			"langname",
+			"self::lo",
+			"self::$locations",
+			"spl_autoload_register",
+			"modules_locations",
+			"modules_locations\n",
+			"modules_locations",
+			"Unable to load your default controller",
+			"Unable to load your default controller.",
+			"Unable to load your default controlle",
+			"Unable to load your default controlle'",
+			"Unable to load your default controller.",
+			"APPPATH",
+			"Unable to load your default controlle",
+			"Unable to load",
+			"Unable to load your default controlle",
+			"__set",
+			"call",
+			"Solid_acl",
+			"locate the model you have specifie",
+			"MX_Loader",
+			"package",
+			"unit_desc",
+			"Group",
+			"insert",
+			"scripts/scripts",
+			"/admin/bootadmin",
+			"adminbootamin",
+			"/themes/bootdamin",
+			"bootadmin/js",
+			"themes/js/",
+			"controller",
+			"load_class",
+			"_ci_load_class",
+			"cover",
+			"DoUpdatePassworUser",
+			"GetLimitBuku",
+			"CurrentRe",
+			"message",
+			"DoDeleteBuku",
+			"GetCountExsemplar",
+			"get_limit_buku",
+			"GetLimitBuku",
+			"get_limit_majalah_volume",
+			"GetLimitMajalahVolume",
+			"GetListMajalahVolume",
+			"get_limit_majalah_volume",
+			"GetLimitMajalahVolume",
+			"['volume",
+			"KLASIFIKASI",
+			"CLASSIFICA",
+			"get_majalah_volume_from_id",
+			"CLASSIFICATION",
+			"CLASSIFICATTION",
+			"get_majalah_volume_from_id",
+			"GetMajalahVolumeFromId",
+			"get_majalah_volume_from_id",
+			"GetMajalahVolumeFromId",
+			"DoUpdateVolume",
+			"seksi",
+			"GOLONGAN_ISI_NAMA",
+			"NOMOR_KLASIFIKASI",
+			"echo '<pre",
+			"GetMultimediaFromId",
+			"print_r",
+			"pre",
+			"print_r",
+			"peinr_r",
+			"print_r",
+			"Kembali",
+			"PESAN_EXPIRE",
+			"borrowbtn",
+			"get_limit_eksemplar_non_buku_cari",
+			"GetLimitEksemplarNonBukuCari",
+			"get_buku_terfavorite",
+			"GetFavoriteBook",
+			"arrCari",
+			"GetFavoriteBook",
+			"pagin",
+			"paging",
+			"get_limit_buku",
+			"GetLimitBuku",
+			"Kembali(",
+			"kembali",
+			"Kembali",
+			"PengembalianBuku",
+			"denda",
+			"bbayar",
+			"cover",
+			"javascript",
+			".png",
+			"bg_ip",
+			"get_latest_book",
+			"currentObj",
+			"get_best_seller",
+			"echo",
+			"echo ",
+			"not_perpus_member",
+			"GetLectureNotMember",
+			"GetSyncData",
+			"_objSdm",
+			"             ",
+			"_objStudent",
+			"_SincronizeStudents",
+			"get_staff_by_kode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php echo base_url() ?>scms/assets/bootmetro",
+			"<?php echo base_url() ?>/scms",
+			"<?php echo base_url() ?>",
+			"<?php echo base_url() ?>/scms/",
+			"Unit",
+			"scripts",
+			"admin/themes/bootadmin",
+			"admin/bootadmin",
+			"bootamin/scripts",
+			"bootdamin/scripts",
+			"themes/scripts/",
+			"        ",
+			"		\n",
+			"        ",
+			" $_POST['buku_id'],\n            $_POST['isbn'],\n            $_POST['barcode'],\n            $_POST['no_lemari'],\n            $_POST['no_rak'],\n            $_POST['year'],\n            $_POST['asal'],\n            $_POST['asal_master'],\n            $_POST['keterangan'],\n            $tglEntri,\n            $tglKirim,\n            $tglTerima,\n            $harga,\n            $_POST['kondisi'],\n            $_POST['keterangan_kondisi'],\n            $tglKondisi,\n            $_POST['penyedia'],\n            $_POST['badan'],\n            $_POST['tipe'],\n            $unit_id,\n            $_POST['status'],\n            $tglStatus,\n            $_POST['tenant'],\n            $this->user,\n            $cover  ,\n            $_POST['eksemplar_id']);",
+			"	$arrayClassBusiness = array(array('kol_buku'=>'Buku','ref_asal'=>'Asal',\n					    'ref_kondisi'=>'Kondisi','ref_penyedia'=>'Penyedia',\n					   'ref_badan'=>'Badan','ref_status_buku'=>'StatusBuku',\n					    'buku_hilang'=>'BukuHilang','ref_tipe'=>'Tipe',\n					 'weeding'=>'Weeding','perbaikan'=>'Perbaikan',\n					 'prodi'=>'Prodi'));",
+			"<?php\n\nrequire_once GTFWConfiguration::GetValue('application', 'docroot') . 'module/kol_buku/business/Buku.class.php';\nrequire_once GTFWConfiguration::GetValue('application', 'docroot') . 'module/kol_buku/response/ProcessBukuEksemplar.proc.class.php';\n\nclass ViewDeleteBukuEksemplar extends HtmlResponse {\n\n   function TemplateModule() {\n      $this->SetTemplateBasedir(GTFWConfiguration::GetValue('application', 'docroot') .\n         'module/kol_buku/template_ind');\n      $this->SetTemplateFile('view_delete_eksemplar.html');\n   }\n\n\n   function ProcessRequest() {\n\n\n      $id = $_GET['id'];\n      $exId = $_GET['exid'];\n\n      $Buku = new Buku();\n      $BukuEksemplar = new BukuEksemplar($Buku);\n      $data['buku'] = $Buku->GetBukuFromId($id);\n      $data['eksemplar'] = $Buku->GetEksemplarFromId($exId);\n      $objProcess =  new ProcessBukuEksemplar();\n\n      if(isset($_GET['delcover'])){\n      	$url = $objProcess->DeleteCover($data['eksemplar'][0]['bkexPathCover'], $exId, $id);\n      	$this->RedirectTo($url);\n      }\n\n      if ('Remove' == $_POST['hapus']):\n         $this->DoDeleteEksemplar();\n      endif;\n      return $data;\n   }\n\n   function ParseTemplate($data = NULL) {\n      //buku\n\n      foreach ($data['buku'] as $buku):\n         $this->mrTemplate->addVar('eksemplar','BUKU_ID', $buku['bkId']);\n         $this->mrTemplate->addVar('eksemplar','JUDUL', $buku['bkJudul']);\n         $this->mrTemplate->addVar('eksemplar','PENGARANG', $buku['bkEntriUtama']);\n         $this->mrTemplate->addVar('eksemplar','PENERBIT', $buku['penerbitNama']);\n         $this->mrTemplate->addVar('eksemplar','TAHUN', $buku['bkTahun']);\n      endforeach;\n      //eksemplar\n      foreach ($data['eksemplar'] as $item):\n         $this->mrTemplate->addVar('eksemplar','EKSEMPLAR_ID', $item['bkexId']);\n         $this->mrTemplate->addVar('eksemplar','BARCODE', $item['bkexBarcode']);\n         $this->mrTemplate->addVar('eksemplar','NOMOR_INVENTARIS', $item['bkexNoInventaris']);\n         $this->mrTemplate->addVar('eksemplar','ASAL', $item['asalAsal']);\n         $this->mrTemplate->addVar('eksemplar','TANGGAL_TERIMA', $item['bkexTanggal']);\n         $this->mrTemplate->addVar('eksemplar','KETERANGAN', $item['bkexKeterangan']);\n         $this->mrTemplate->addVar('eksemplar','TANGGAL_KIRIM', $item['bkexTanggalKirim']);\n         $this->mrTemplate->addVar('eksemplar','HARGA', $item['bkexHarga']);\n         $this->mrTemplate->addVar('eksemplar','KONDISI', $item['kondKondisi']);\n         $this->mrTemplate->addVar('eksemplar','KETERANGAN_KONDISI', $item['bkexKondAlasan']);\n         $this->mrTemplate->addVar('eksemplar','TANGGAL_KONDISI', $item['bkexKondTanggal']);\n         $this->mrTemplate->addVar('eksemplar','PENYEDIA', $item['pdiaNama']);\n         $this->mrTemplate->addVar('eksemplar','BADAN', $item['bdnBadan']);\n         $this->mrTemplate->addVar('eksemplar','TIPE', $item['tpTipe']);\n         $this->mrTemplate->addVar('eksemplar','STATUS', $item['stbkNama']);\n      endforeach;\n   }\n\n   function DoDeleteEksemplar() {\n      $id = $_POST['buku_id'];\n      $exid = $_POST['eksemplar_id'];\n      $Buku = new Buku();\n      $rs = $Buku->DeleteEksemplar($exid);\n      if (true == $rs):\n         $this->RedirectTo(Dispatcher::Instance()->GetUrl('kol_buku', 'AllBukuEksemplar', 'view', 'html').'&id='.$id);\n      endif;\n   }\n}\n\n?>\n",
+			"<?php\n\nrequire_once GTFWConfiguration::GetValue('application', 'docroot') . 'module/kol_buku/business/Buku.class.php';\nrequire_once GTFWConfiguration::GetValue('application', 'docroot') . 'main/lib/php/classes/Loader.class.php';\n\nclass ViewDeleteBuku extends HtmlResponse {\n\n    private $objBook;\n    private $objBookProdi;\n    private $id;\n\n    function __construct() {\n        #print_r($_POST);\n    }\n\n    function TemplateModule() {\n        $this->SetTemplateBasedir(GTFWConfiguration::GetValue('application', 'docroot') .\n                'module/kol_buku/template_ind');\n        $this->SetTemplateFile('view_delete_buku.html');\n    }\n\n    function DoPrepareData() {\n        $id=  $_GET['id'];\n        $rs = $this->objBook->GetBukuFromId($id);\n        return $rs;\n    }\n\n    function ProcessRequest() {\n\n        Loader::Instance()->LoadLibrary(array('ComponentGenerator','Language','FileGenerator'));\n\n        $this->id = $_GET['id'];\n        $this->objBook = new Buku();\n        $this->objBook->SetBukuId($this->id);\n        $this->objBookProdi = new BukuProdi();\n        $this->objBookProdi->SetBuku($this->objBook);\n\n\n        $this->jumlah = $this->objBook->JumlahEksemplarBukuNonUnit(array($_GET['id'], Security::Instance()->mrUser->mUnitId));\n\n        if (('DeleteBuku' == $_GET['sub']) && ('Delete' != $_POST['hapus'])):\n            return $this->DoPrepareData();\n        elseif ($_POST['hapus'] == 'Delete'):\n            $this->DoDeleteBuku();\n        endif;\n    }\n\n    function ParseTemplate($data = NULL) {\n        $nav[0]['url'] = Dispatcher::Instance()->GetUrl('a_koleksi', 'Koleksi', 'view', 'html') . '&mxid=8';\n        $nav[0]['menu'] = \"Collection Management\";\n        $nav[1]['url'] = Dispatcher::Instance()->GetUrl('kol_buku', 'Buku', 'view', 'html');\n        $nav[1]['menu'] = \"Book\";\n        $title = \"Delete Book\";\n        $this->mrTemplate->addVar('breadcrump_nav', 'NAV_TITLE', $title);\n        foreach ($nav as $indeks => $navigasi) {\n            $this->mrTemplate->addVars('breadcrump_nav_item', $navigasi, 'NAV_');\n            $this->mrTemplate->parseTemplate('breadcrump_nav_item', 'a');\n        }\n\n        $this->mrTemplate->setAttribute('gagal_hapus', 'visibility', 'hidden');\n        $this->mrTemplate->setAttribute('berhasil_hapus', 'visibility', 'hidden');\n\n        if ($this->jumlah > '0') {\n            $this->mrTemplate->setAttribute('gagal_hapus', 'visibility', 'visible');\n        } else {\n            $this->mrTemplate->setAttribute('berhasil_hapus', 'visibility', 'visible');\n        }\n\n        $this->mrTemplate->addVar('buku', 'BUKU_ID', $data[0]['bkId']);\n        $this->mrTemplate->addVar('buku', 'COVER', $data[0]['bkPathCover']);\n        $this->mrTemplate->addVar('buku', 'JUDUL', $data[0]['bkJudul']);\n        $this->mrTemplate->addVar('buku', 'PENGARANG_UTAMA', $data[0]['bkEntriUtama']);\n        $this->mrTemplate->addVar('buku', 'PENERBIT', $data[0]['penerbitNama']);\n        $this->mrTemplate->addVar('buku', 'TAHUN', $data[0]['bkTahun']);\n        if (isset($item))\n            $this->mrTemplate->addVars('buku', $item);\n    }\n\n    function DoDeleteBuku() {\n\n        $folder = GTFWConfiguration::GetValue('application','debug_folder').'/';\n        $fileDebug = FileGenerator::Instance()->CreateFile($folder.'delete_buku.log');\n\n        $this->objBook_id = $_POST['buku_id'];\n        $this->objBook->SetBukuId($this->objBook_id);\n        $this->objBook->StartTrans();\n        $rs = $this->objBookProdi->DeleteBukuProdi();\n        $fileDebug->AppendData($this->objBookProdi->GetLastError());\n        $rs = $this->objBook->DeleteBuku($this->objBook_id);\n\n        $fileDebug->AppendData($this->objBookProdi->GetLastError());\n        $this->objBook->EndTrans($rs);\n\n        $hapus_file = $_POST['cover'];\n        if ((file_exists(GTFWConfiguration::GetValue('application', 'file_buku') . $hapus_file)) && (!empty($hapus_file)) &&\n                (is_file(GTFWConfiguration::GetValue('application', 'file_buku') . $hapus_file))) {\n            unlink(GTFWConfiguration::GetValue('application', 'file_buku') . $hapus_file);\n        }\n\n        if (false != $rs):\n\n        $msg =array(1=>'Success delete data', 'notebox-done');\n	Messenger::Instance()->Send('messenger', 'Messenger', 'view', 'html', $msg,Messenger::NextRequest);\n	$this->RedirectTo(Dispatcher::Instance()->GetUrl('kol_buku', 'Buku', 'view', 'html'));\n\n        endif;\n    }\n\n}\n\n?>\n",
+			"pub_pegawai",
+			"pub"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scms/config/autoload.php",
+					"settings":
+					{
+						"buffer_size": 3395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1334,
+								1334
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scms/third_party/core_packages/config/solid.php",
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scms/third_party/core_packages/libraries/smarty.php",
+					"settings":
+					{
+						"buffer_size": 1618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scms/themes/bootadmin/views/layouts/main.php",
+					"settings":
+					{
+						"buffer_size": 3059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2254,
+								2254
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scms/components/panel_menu/controllers/panel_menu.php",
+					"settings":
+					{
+						"buffer_size": 5790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 305.0,
+						"translation.y": 514.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scms/modules/widgets/controllers/bootstrap.php",
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scms/modules/widgets/views/bootstrap.php",
+					"settings":
+					{
+						"buffer_size": 7112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6282,
+								6282
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2530.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "scms/widgets/wbootstrap/views/dropdown.php",
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "scms/widgets/bootstrap/views/navbar.php",
+					"settings":
+					{
+						"buffer_size": 5236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								898,
+								898
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 28.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"settings":
+					{
+						"buffer_size": 3588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2402,
+								2402
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "logs/v.0.1",
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "scms/third_party/core_packages/libraries/template.php",
+					"settings":
+					{
+						"buffer_size": 17577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7653,
+								7653
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5670.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "scms/config/template.php",
+					"settings":
+					{
+						"buffer_size": 2179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1704,
+								1704
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "scms/assets/scripts/jquery-validation/css/core.css",
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "scms/widgets/bootstrap/README",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "scms/third_party/core_packages/solid_core/core_application/views/index.php",
+					"settings":
+					{
+						"buffer_size": 1521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1504,
+								1504
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "scms/widgets/wbootstrap/views/navbar.php",
+					"settings":
+					{
+						"buffer_size": 5246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 53.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "scms/widgets/wbootstrap/controllers/wbootstrap.php",
+					"settings":
+					{
+						"buffer_size": 5335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5327,
+								5327
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "scms/widgets/wbootstrap/views/alert.php",
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "scms/widgets/wbootstrap/views/setup.php",
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "scms/widgets/wbootstrap/views/pagination.php",
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div class=\"pagination\">",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "scms/widgets/wbootstrap/views/breadcrumb.php",
+					"settings":
+					{
+						"buffer_size": 831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "scms/widgets/wbootstrap/views/btndropdown.php",
+					"settings":
+					{
+						"buffer_size": 2465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div class=\"btn-group\">",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "scms/themes/bootadmin/views/layouts/login.php",
+					"settings":
+					{
+						"buffer_size": 3045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "scms/third_party/core_packages/solid_core/core_application/controllers/core_application.php",
+					"settings":
+					{
+						"buffer_size": 3731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "scms/config/config.php",
+					"settings":
+					{
+						"buffer_size": 13492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								622,
+								622
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "scms/extensions/egooglemaps/controllers/egooglemaps.php",
+					"settings":
+					{
+						"buffer_size": 1854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1771,
+								1771
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 712.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/media/WEBSITE/www/solid.local/risets/solidcms/scms/logs",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "scms/modules/extensions/controllers/mgooglemaps.php",
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "scms/modules/extensions/views/googlemaps.php",
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "scms/modules/extensions/views/multiplemarker.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "scms/extensions/egooglemaps/views/multiplemarker.php",
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "scms/extensions/egooglemaps/views/direction.php",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "scms/extensions/egooglemaps/views/index.php",
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"auto_name": "google map loader",
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "scms/config/config.php~",
+					"settings":
+					{
+						"buffer_size": 13389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								574,
+								574
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.co",
+				"app/bo/config/application.conf.php"
+			],
+			[
+				"app.con",
+				"app/bo/config/application.conf.php"
+			],
+			[
+				"app.com",
+				"app/bo/config/application.conf.php.sample"
+			],
+			[
+				"studen",
+				"app/bo/module/managemen_anggota/business/Students.class.php"
+			],
+			[
+				"sdm.clas",
+				"app/bo/module/managemen_anggota/business/Sdm.class.php"
+			],
+			[
+				"viewupdatebu",
+				"app/bo/module/pengolahan_koleksi/response/ViewUpdateBuku.html.class.php"
+			],
+			[
+				"viewbuku",
+				"app/bo/module/kol_buku/response/ViewBuku.html.class.php"
+			],
+			[
+				"histori_sir",
+				"app/bo/module/histori_sirkulasi/template/view_buku.html"
+			],
+			[
+				"ref_sta",
+				"app/bo/module/ref_status_anggota/business/StatusAnggota.class.php"
+			],
+			[
+				"viewsik",
+				"app/bo/module/sirkulasi/response/ViewSirkulasi.html.class.php"
+			],
+			[
+				"kol_cetak",
+				"/media/WEBSITE/www/Gamatechno/IONS/trunk/app/gtpustaka/app/bo/module/kol_cetak/template/view_cetak_kartu.html"
+			],
+			[
+				"resyn",
+				"app/bo/module/managemen_anggota/response/ViewResyncMember.html.class.php"
+			],
+			[
+				"listgolon",
+				"app/bo/module/ref_golongan/response/ViewListGolongan.html.class.php"
+			],
+			[
+				"sikulasi_den",
+				"app/bo/module/sirkulasi_denda/template/view_anggota.html"
+			],
+			[
+				"kol_buku",
+				"app/bo/module/kol_buku/template_ind/view_detail_buku.html"
+			],
+			[
+				"gtfwmodule.cla",
+				"app/bo/module/gtfw_module/business/GtfwModule.class.php"
+			],
+			[
+				"sinkronanggota2",
+				"app/bo/module/managemen_anggota/response/ViewSinkronAnggota2.html.class.php"
+			],
+			[
+				"lap_rekap",
+				"app/bo/module/lap_rekap_buku/template/view_laporan_rekap_buku.html"
+			],
+			[
+				"viewpencariane",
+				"/media/WEBSITE/www/Gamatechno/IONS/trunk/app/gtpustaka/app/bo/module/sirkulasi/response/ViewPencarianEksemplarBuku.html.class.php"
+			],
+			[
+				"grafikbukudipin",
+				"app/bo/module/statistik_buku_dipinjam/response/ViewGrafikBukuDipinjam.img.class.php"
+			],
+			[
+				"listgo",
+				"app/bo/module/ref_golongan/response/ViewListGolongan.html.class.php"
+			],
+			[
+				"cetaklabel",
+				"app/bo/module/kol_cetak/response/ViewCetakLabel.html.class.php"
+			],
+			[
+				"viewaddbuk",
+				"app/bo/module/kol_buku/response/ViewAddBuku.html.class.php"
+			],
+			[
+				"ubahpass",
+				"app/bo/module/gtfw_user/response/ViewUbahPassword.html.class.php"
+			],
+			[
+				"document",
+				"gtpustaka-base/main/template/document-common.html"
+			],
+			[
+				"sia_coo",
+				"app/bo/styles/jogjalib/sia-mocca/css/a_sia_common.css"
+			],
+			[
+				"sirkulasi_denda",
+				"app/bo/module/sirkulasi_denda/template/view_denda.html"
+			],
+			[
+				"lap_buku_terpinjam",
+				"app/bo/module/lap_buku_terpinjam/template/view_laporan_buku_terpinjam.html"
+			],
+			[
+				"sidebar.cs",
+				"app/bo/styles/jogjalib/sia-mocca/css/a_sia_sidebar.css"
+			],
+			[
+				"layou",
+				"app/bo/main/template/layout-common.html"
+			],
+			[
+				"common.css",
+				"app/bo/styles/jogjalib/sia-mocca/css/a_sia_common.css"
+			],
+			[
+				"sidebar",
+				"app/bo/styles/jogjalib/sia-mocca/css/a_sia_sidebar.css"
+			],
+			[
+				"a_sia.css",
+				"app/fo/css/jogjalib/default/css/a_sia_login.css"
+			],
+			[
+				"kol_cetak_majalah",
+				"app/bo/module/kol_cetak_majalah/business/Majalah.class.php"
+			],
+			[
+				"dopinjam",
+				"app/bo/module/sirkulasi/response/DoPinjam.html.class.php"
+			],
+			[
+				"pencarianekse",
+				"app/bo/module/kol_scan_koleksi/response/ViewPencarianEksemplar.html.class.php"
+			],
+			[
+				"view_cetak",
+				"app/bo/module/kol_cetak/template/view_cetak_label.html"
+			],
+			[
+				"viewcetaklab",
+				"app/bo/module/kol_cetak/response/ViewCetakLabel.html.class.php"
+			],
+			[
+				"cetakstoc",
+				"app/bo/module/stock_opname/response/ViewCetakStockOpname.xls.class.php.php"
+			],
+			[
+				"viewcet",
+				"app/bo/module/kol_cetak/response/ViewCetakLabel.html.class.php"
+			],
+			[
+				"viewcetakla",
+				"/media/WEBSITE/www/Gamatechno/IONS/trunk/app/gtpustaka/app/bo/module/kol_cetak/response/ViewCetakLabel.html.class.php"
+			],
+			[
+				"anggota",
+				"app/bo/module/managemen_anggota/business/Anggota.class.php"
+			],
+			[
+				"viewangg",
+				"app/bo/module/managemen_anggota/response/ViewAnggota.html.class.php"
+			],
+			[
+				"viewanggo",
+				"app/bo/module/managemen_anggota/response/ViewAnggota.html.class.php"
+			],
+			[
+				"viewanggota",
+				"app/bo/module/managemen_anggota/response/ViewAnggota.html.class.php"
+			],
+			[
+				"businessang",
+				"app/bo/module/managemen_anggota/business/businessanggota.sql.php"
+			],
+			[
+				"anggo",
+				"app/bo/module/managemen_anggota/business/Anggota.class.php"
+			],
+			[
+				"business",
+				"app/bo/module/managemen_anggota/business/businessanggota.sql.php"
+			],
+			[
+				"view_cetak_barcode",
+				"app/bo/module/kol_cetak/template/view_cetak_barcode.html"
+			],
+			[
+				"kol_cetak_barc",
+				"app/bo/module/kol_cetak_multimedia/template/view_cetak_barcode.html"
+			],
+			[
+				"a_sia_common.",
+				"app/bo/styles/jogjalib/sia-mocca/css/a_sia_common.css"
+			],
+			[
+				"debugger",
+				"app/bo/main/lib/php/classes/Debugger.class.php"
+			],
+			[
+				"app",
+				"app/bo/config/application.conf.php"
+			],
+			[
+				"viewpencarian",
+				"app/bo/module/sirkulasi/response/ViewPencarianEksemplarBuku.html.class.php"
+			],
+			[
+				"viewaddbuku",
+				"app/bo/module/kol_buku/response/ViewAddBuku.html.class.php"
+			],
+			[
+				"view_buku",
+				"app/bo/module/kol_buku/template_ind/view_buku.html"
+			],
+			[
+				"sinkronang",
+				"app/bo/module/managemen_anggota/response/ViewSinkronAnggota2.html.class.php"
+			],
+			[
+				"cetakr",
+				"app/bo/module/lap_rekap_buku/response/DoCetakRekapBuku.html.class.php"
+			],
+			[
+				"",
+				"app/bo/config/application.conf.php"
+			],
+			[
+				"viewsirkulas",
+				"app/bo/module/sirkulasi/response/ViewSirkulasi.html.class.php"
+			],
+			[
+				"docume",
+				"app/bo/main/template/document-common.html"
+			],
+			[
+				"viewupdateek",
+				"app/bo/module/kol_buku/response/ViewUpdateBukuEksemplar.html.class.php"
+			],
+			[
+				"viewupdateekse",
+				"app/bo/module/kol_buku/response/ViewUpdateBukuEksemplar.html.class.php"
+			],
+			[
+				"view_sik",
+				"app/bo/module/sirkulasi/template/view_sirkulasi.html"
+			],
+			[
+				"viewsirkul",
+				"app/bo/module/sirkulasi/response/ViewSirkulasi.html.class.php"
+			],
+			[
+				"view_sirkula",
+				"app/bo/module/sirkulasi/template/view_sirkulasi.html"
+			],
+			[
+				"viewsirkulasi",
+				"app/bo/module/sirkulasi/response/ViewSirkulasi.html.class.php"
+			],
+			[
+				"filege",
+				"app/bo/main/lib/php/classes/FileGenerator.class.php"
+			],
+			[
+				"filegen",
+				"app/bo/main/lib/php/classes/FileGenerator.class.php"
+			],
+			[
+				"historyku",
+				"app/bo/module/lap_kunjungan_anggota/response/ViewHistoryKunjunganAnggota.html.class.php"
+			],
+			[
+				"historykung",
+				"app/bo/module/lap_kunjungan_anggota/response/ViewHistoryKunjunganAnggota.html.class.php"
+			],
+			[
+				"hytorykun",
+				"app/bo/module/lap_kunjungan_anggota/response/ViewHystoryKunjunganAnggota.html.class.php~"
+			],
+			[
+				"detail",
+				"app/bo/module/kol_multimedia/template/view_detail_multimedia.html"
+			],
+			[
+				"vewpeng",
+				"app/bo/module/pengunjung/response/ViewPengunjung.html.class.php"
+			],
+			[
+				"viewtop",
+				"app/bo/module/top_anggota/response/ViewTopAnggota.html.class.php"
+			],
+			[
+				"top",
+				"app/bo/module/top_anggota/business/TopAnggota.class.php"
+			],
+			[
+				"stockop",
+				"app/bo/module/stock_opname/business/StockOpname.class.php"
+			],
+			[
+				"stocko",
+				"app/bo/module/stock_opname/business/StockOpname.class.php"
+			],
+			[
+				"topanggo",
+				"app/bo/module/top_anggota/business/TopAnggota.class.php"
+			],
+			[
+				"stoc_con",
+				"app/bo/module/stock_control/template/view_stock_control.html"
+			],
+			[
+				"pencarian",
+				"app/bo/module/kol_scan_koleksi/template/view_pencarian_eksemplar.html"
+			],
+			[
+				"ubahpad",
+				"app/bo/module/gtfw_user/response/DoUbahPassword.html.class.php"
+			],
+			[
+				"ubahpas",
+				"app/bo/module/gtfw_user/response/ViewUbahPassword.html.class.php"
+			],
+			[
+				"gtfe_user",
+				"app/bo/module/gtfw_user/template/view_ubah_password_user.html"
+			],
+			[
+				"ref_tingl",
+				"app/bo/module/ref_tingkat/template/view_list_tingkat.html"
+			],
+			[
+				"messnger",
+				"app/bo/lang/eng/messenger.lang.php"
+			],
+			[
+				"language",
+				"app/bo/main/lib/php/classes/Language.class.php"
+			],
+			[
+				"view_sek",
+				"app/bo/module/ref_seksi/template/view_list_seksi.html"
+			],
+			[
+				"view_multimedia",
+				"app/bo/module/kol_multimedia/template/view_multimedia.html"
+			],
+			[
+				"kol_majalah",
+				"app/bo/module/kol_majalah/template/view_majalah.html"
+			],
+			[
+				"view_an",
+				"app/bo/module/managemen_anggota/template/view_anggota.html"
+			],
+			[
+				"debugge",
+				"app/bo/main/lib/php/classes/Debugger.class.php"
+			],
+			[
+				"viewupdatebukuek",
+				"app/bo/module/kol_buku/response/ViewUpdateBukuEksemplar.html.class.php"
+			],
+			[
+				"deletebuku",
+				"app/bo/module/kol_buku/response/ViewDeleteBuku.html.class.php"
+			],
+			[
+				"emailc",
+				"app/bo/main/lib/php/classes/EmailDebugger.class.php"
+			],
+			[
+				"docrea",
+				"app/bo/module/managemen_anggota/response/DoCreateUser.html.class.php"
+			],
+			[
+				"viewsink",
+				"app/bo/module/managemen_anggota/response/ViewSinkronAnggota2.html.class.php"
+			],
+			[
+				"app.c",
+				"app/bo/config/application.conf.php"
+			],
+			[
+				"viewpencaria",
+				"app/bo/module/sirkulasi/response/ViewPencarianEksemplarBuku.html.class.php"
+			],
+			[
+				"doaddmaja",
+				"app/bo/module/kol_majalah/response/ViewAddMajalah.html.class.php"
+			],
+			[
+				"viewaddma",
+				"app/bo/module/kol_majalah/response/ViewAddMajalah.html.class.php"
+			],
+			[
+				"majalah",
+				"app/bo/module/kol_majalah/business/Majalah.class.php"
+			],
+			[
+				"bukuc",
+				"app/bo/module/kol_buku/business/Buku.class.php"
+			],
+			[
+				"loaderc",
+				"app/bo/main/lib/php/classes/Loader.class.php"
+			],
+			[
+				"vars.hel",
+				"app/bo/main/lib/php/helpers/vars.helper.php"
+			],
+			[
+				"viewmultimeda",
+				"app/bo/module/kol_multimedia/response/ViewMultimedia.html.class.php"
+			],
+			[
+				"kol_multime",
+				"app/bo/module/kol_multimedia/template/view_detail_multimedia.html"
+			],
+			[
+				"multime",
+				"app/bo/module/kol_multimedia/business/Multimedia.class.php"
+			],
+			[
+				"filegene",
+				"gtpustaka/app/bo/main/lib/php/classes/FileGenerator.class.php"
+			],
+			[
+				"viewdel",
+				"gtpustaka/app/bo/module/kol_buku/response/ViewDeleteBuku.html.class.php"
+			],
+			[
+				"viewdelete",
+				"gtpustaka/app/bo/module/kol_buku/response/ViewDeleteBuku.html.class.php"
+			],
+			[
+				"filegenera",
+				"gtpustaka/app/bo/main/lib/php/classes/FileGenerator.class.php"
+			],
+			[
+				"view_form_buku",
+				"gtpustaka/app/bo/module/kol_buku/template_ind/view_form_buku.html"
+			],
+			[
+				"viewaddb",
+				"gtpustaka/app/bo/module/banner/response/ViewAddBanner.html.class.php"
+			],
+			[
+				"form_eksem",
+				"gtpustaka/app/bo/module/kol_buku/template_eng/view_form_eksemplar.html"
+			],
+			[
+				"viewinputgol",
+				"gtpustaka/app/bo/module/ref_golongan_kategori/response/ViewInputGolonganKategori.html.class.php"
+			],
+			[
+				"view_input_golonga",
+				"gtpustaka/app/bo/module/ref_golongan_kategori/template/view_input_golongan_kategori.html"
+			],
+			[
+				"view_golongan",
+				"gtpustaka/app/bo/module/ref_golongan_kategori/template/view_golongan_kategori.html"
+			],
+			[
+				"viewgolongan",
+				"gtpustaka/app/bo/module/ref_golongan_kategori/response/ViewGolonganKategori.html.class.php"
+			],
+			[
+				"view_sir",
+				"gtpustaka/app/bo/module/sirkulasi/template/view_sirkulasi.html"
+			],
+			[
+				"dopinja",
+				"gtpustaka/app/bo/module/sirkulasi/response/DoPinjam.html.class.php"
+			],
+			[
+				"createuser",
+				"gtpustaka/app/bo/module/managemen_anggota/response/DoCreateUser.html.class.php"
+			],
+			[
+				"date.hel",
+				"gtpustaka/app/bo/main/lib/php/helpers/date.helper.php"
+			],
+			[
+				"lectu",
+				"gtpustaka/app/bo/module/managemen_anggota/business/Lecturer.class.php"
+			],
+			[
+				"student",
+				"gtpustaka/app/bo/module/managemen_anggota/business/Students.class.php"
+			],
+			[
+				"sinkronanggo",
+				"gtpustaka/app/bo/module/managemen_anggota/response/ViewSinkronAnggota2.html.class.php"
+			],
+			[
+				"adnvancedsear",
+				"gtpustaka/app/bo/module/pengunjung/response/ViewAdvancedSearch.html.class.php"
+			],
+			[
+				"advancedsear",
+				"gtpustaka/app/bo/module/sirkulasi/response/ViewAdvancedSearch.html.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}

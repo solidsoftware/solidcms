@@ -1,0 +1,16 @@
+<?php
+
+
+class welcome extends MY_Controller{
+
+
+	function __construct(){
+		parent::__construct();
+	}
+	
+
+	function index(){
+
+		$this->template->set_layout('two_col')->build('welcome_message'); 					
+	}
+}
